@@ -1,5 +1,5 @@
 export const Counter = () => {
-  const incident = 'Incident';
+  const incident = 'Coffe Spill';
   const count = 0;
 
   return (
